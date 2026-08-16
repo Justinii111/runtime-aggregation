@@ -42,11 +42,7 @@ E104	Data older than current tail	Use replace to backfill
 E105	Symbol mismatch	Check symbol
 E109	Worker rebuilt	Re-call replace
 E110	Timeout	Auto-rebuild, retry
+
 Notes
 Serialize calls per stream
 
-Integrity check on load
-
-New trading day: use append
-
-Historical revision: use replace
