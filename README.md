@@ -1,5 +1,5 @@
 
-Aggregator WASM
+Aggregator 
 Ticks → Candles
 
 Usage
